@@ -24,7 +24,9 @@ The steps are:
 Once this is complete, you are now fully updated and ready to go. 
 
 If this saves you a ton of money, please consider donating. 
+
 Ethereum: 0xB55d55fB887Bea10fEB0f7E13DD3Ff91f1767ef9
+
 Tron: TNtWj62WSDHBEKHu4bwv927vGHgp89A1CN
  
 
