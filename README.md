@@ -26,43 +26,38 @@ Once this is complete, you are now fully updated and ready to go.
 
 I have noticed the following layout of RAM for the chips:
 
-7GByte
+**7GB**
 
-U5 K4Z80325BC 1GByte
-U6 K4ZAF325BM 2GByte 
-U7 K4ZAF325BM 2GByte
-U8 K4ZAF325BM 2GByte
+ - U5 K4Z80325BC 1GB
+ - U6 K4ZAF325BM 2GB 
+ -  U7 K4ZAF325BM 2GB 
+ - U8 K4ZAF325BM 2GB
 
+**6GB**
 
-6GByte
-
-U5 K4Z80325BC 1GByte
-U6 K4Z80325BC 1GByte
-U7 K4ZAF325BM 2GByte
-U8 K4ZAF325BM 2GByte
-
-
-5GByte
-
-U5 K4Z80325BC 1GByte
-U6 K4Z80325BC 1GByte
-U6 K4Z80325BC 1GByte
-U8 K4ZAF325BM 2GByte
+ - U5 K4Z80325BC 1GB
+ - U6 K4Z80325BC 1GB
+ - U7 K4ZAF325BM 2GB
+ - U8 K4ZAF325BM 2GB
 
 
-4GByte
+**5GB**
 
-U5 K4Z80325BC 1GByte
-U6 K4Z80325BC 1GByte
-U6 K4Z80325BC 1GByte
-U8 K4Z80325BC 1GByte
+ - U5 K4Z80325BC 1GB
+ - U6 K4Z80325BC 1GB
+ - U6 K4Z80325BC 1GB
+ - U8 K4ZAF325BM 2GB
+
+**4GByte**
+
+ - U5 K4Z80325BC 1GB
+ - U6 K4Z80325BC 1GB
+ - U6 K4Z80325BC 1GB
+ - U8 K4Z80325BC 1GB
 
 I have included a photo thanks to @funkyfeel of the chip location. 
 
 If this saves you a ton of money, please consider donating. 
 
 Ethereum: 0xB55d55fB887Bea10fEB0f7E13DD3Ff91f1767ef9
-
 Tron: TNtWj62WSDHBEKHu4bwv927vGHgp89A1CN
- 
-
