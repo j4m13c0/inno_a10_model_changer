@@ -29,44 +29,32 @@ I have noticed the following layout of RAM for the chips:
 7GByte
 
 U5 K4Z80325BC 1GByte
-
 U6 K4ZAF325BM 2GByte 
-
 U7 K4ZAF325BM 2GByte
-
 U8 K4ZAF325BM 2GByte
 
 
 6GByte
 
 U5 K4Z80325BC 1GByte
-
 U6 K4Z80325BC 1GByte
-
 U7 K4ZAF325BM 2GByte
-
 U8 K4ZAF325BM 2GByte
 
 
 5GByte
 
 U5 K4Z80325BC 1GByte
-
 U6 K4Z80325BC 1GByte
-
 U6 K4Z80325BC 1GByte
-
 U8 K4ZAF325BM 2GByte
 
 
 4GByte
 
 U5 K4Z80325BC 1GByte
-
 U6 K4Z80325BC 1GByte
-
 U6 K4Z80325BC 1GByte
-
 U8 K4Z80325BC 1GByte
 
 I have included a photo thanks to @funkyfeel of the chip location. 
